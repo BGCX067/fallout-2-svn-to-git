@@ -1,0 +1,37 @@
+Atualizado em: 16.07.2015
+# Arquivos para tradução: 1.204
+# Arquivos traduzidos: 388 (Fase 1,2) + parcial fase 3
+# Arquivos restantes: 816
+# 32%
+
+
+FASE 01 = 58 -> OK
+FASE 02 = 67 -> OK
+FASE 03 = 98 -> Parcial(Traduz. 61 ) - falta 37
+
+
+TRADUZIDOS OFICIAL / PORTUGUES BR (Ja com inclusao das fases: 01)
+ - CUTS   = 21
+ - DIALOG = 240
+ - GAME   = 23
+ = 284 
+
+
+NÃO TRADUZIDOS / (english) =
+ - CUTS   = 118
+ - DIALOG = 628
+ - GAME   = 9
+ = 755
+
+TOTAIS
+284 - TRADUZIDOS
+755 - NAO TRADUZIDOS
+----
+1039
++67 (fase 02)
++98 (fase 03)
+----
+1204
+
+
+

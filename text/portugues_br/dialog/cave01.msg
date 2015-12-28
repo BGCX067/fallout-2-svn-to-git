@@ -1,0 +1,1 @@
+{100}{}{Você está ouvindo alguns sons que vêm de dentro da caverna.}
